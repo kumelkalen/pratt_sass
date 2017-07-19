@@ -5806,5 +5806,12 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+* {
+  font-family: "Raleway", sans-serif; }
+
+.navbar-nav li:hover {
+  background-color: #33485c; }
+  .navbar-nav li:hover a:hover {
+    color: #fff; }
 
 /*# sourceMappingURL=main.css.map */
